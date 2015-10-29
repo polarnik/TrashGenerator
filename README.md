@@ -51,3 +51,6 @@ D:\Project\TrashGenerator\bin\Debug\File_1000_4.bin     1000 Bytes
 D:\Project\TrashGenerator\bin\Debug\File_1000_5.bin     1000 Bytes
 Press any key to continue . . .
 ```
+Сборка для "Any CPU" в "Releases":
+
+- https://github.com/polarnik/TrashGenerator/releases/download/0.1/Release.0.1.zip
